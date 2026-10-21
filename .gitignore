@@ -1,0 +1,9 @@
+# Entorno virtual (cada uno crea el suyo)
+.venv/
+
+# Claves secretas (la clave de la API de IA)
+.env
+
+# Archivos temporales de Python
+__pycache__/
+*.pyc
