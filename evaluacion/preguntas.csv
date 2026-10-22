@@ -1,0 +1,21 @@
+pregunta;respuesta_correcta;documento_esperado
+¿Cuánto cuesta enviar un palet a Baleares?;260 € por palet, sin IVA;06_
+¿Cuánto cuesta enviar un paquete de 50 kg a Málaga?;24,80 € sin IVA (15,80 € + 20 kg × 0,45 €);06_
+¿Cuál es el peso volumétrico de una caja de 60 x 40 x 40 cm?;19,2 kg;06_
+¿Cuánto cuesta enviar un palet a Francia?;No hay información: las tarifas solo cubren España y Portugal;
+¿Hasta qué hora tengo que entregar un envío para que salga el mismo día?;Antes de las 13:00;05_|07_|01_
+¿Cuánto tarda un envío estándar a Canarias?;De 5 a 7 días laborables;07_
+¿Cuántos días tengo para devolver un producto?;30 días naturales desde la entrega;03_|05_
+¿Se pueden devolver productos refrigerados?;No, los productos refrigerados o perecederos no admiten devolución;03_
+Me ha llegado un paquete roto por dentro pero la caja estaba bien, ¿cuánto tiempo tengo para reclamar?;7 días naturales desde la entrega (daño oculto);08_|05_
+¿Cuánto me indemnizan si pierden mi envío y no contraté seguro?;5 € por kilo de peso bruto, con un máximo de 600 € por envío;08_|14_
+¿A qué velocidad máxima puede ir una carretilla dentro de la nave?;6 km/h;04_
+¿A qué temperatura tiene que llegar la mercancía refrigerada?;Entre 2 °C y 8 °C;02_|01_
+¿Cuál es la altura máxima de un palet que se recibe en el almacén?;1,80 m incluida la base;02_
+¿Cuántos kilos puede levantar a mano un operario en el picking?;25 kg;09_
+¿Aceptáis envíos de fuegos artificiales?;No, los explosivos (clase 1, incluida la pirotecnia) no se aceptan;10_
+¿Cuántos días de permiso tengo si hospitalizan a mi padre?;5 días laborables;12_
+¿Cuántos días de vacaciones tengo al año?;30 días naturales;12_
+¿Cuándo se hace el inventario general?;El último fin de semana de junio;13_
+Según la Ley de Prevención de Riesgos Laborales, ¿el empresario tiene que formar a los trabajadores?;Sí, debe garantizar una formación teórica y práctica, suficiente y adecuada, en materia preventiva, sin coste para el trabajador;ley_31
+¿Quién ganó el Mundial de fútbol de 2022?;No hay información en los documentos;

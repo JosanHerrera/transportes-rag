@@ -1,0 +1,58 @@
+﻿pregunta;respuesta_correcta;documento_esperado;respuesta_asistente;busqueda_ok;respuesta_ok
+¿Cuánto cuesta enviar un palet a Baleares?;260 € por palet, sin IVA;06_;"Enviar un palet a Baleares cuesta **260,00 € sin IVA** [06_tarifas_transporte_2026.pdf, página 2]. Baleares es la Zona 4 [06_tarifas_transporte_2026.pdf, página 1].
+
+Con el IVA del 21 %: 260,00 € × 1,21 = **314,60 €** [06_tarifas_transporte_2026.pdf, página 1].
+
+Esta tarifa de palet aplica hasta 1.000 kg y 1,80 m de altura [06_tarifas_transporte_2026.pdf, página 1].";SÍ;SÍ
+¿Cuánto cuesta enviar un paquete de 50 kg a Málaga?;24,80 € sin IVA (15,80 € + 20 kg × 0,45 €);06_;"Según la tarifa de paquetería, un envío de 50 kg a Málaga (Zona 2) cuesta **24,80 € sin IVA**, aunque no puede enviarse como paquete único:
+
+- Tramo de 20,01 a 30 kg, Zona 2: 15,80 € [06_tarifas_transporte_2026.pdf, página 1]
+- Kg adicionales por encima de 30 kg: 50 − 30 = 20 kg × 0,45 € = 9,00 € [06_tarifas_transporte_2026.pdf, página 1]
+- Total: 15,80 € + 9,00 € = 24,80 € sin IVA [06_tarifas_transporte_2026.pdf, página 1]
+
+Con IVA (21 %), serían unos 30,01 € (24,80 × 1,21).
+
+**Advertencia:** el peso máximo por bulto en paquetería es de 30 kg, y la suma de sus tres medidas no puede superar 300 cm. Por encima de esos límites se usa el servicio de palet [05_preguntas_frecuentes_clientes.pdf, página 2]. El cálculo anterior corresponde al caso de varios bultos que suman 50 kg, que es la situación prevista en la tarifa. Si se trata de un único bulto de 50 kg, no aplica paquetería. Los documentos que tengo no incluyen una tarifa de palet para este caso, así que no puedo darte un precio para ese servicio.";SÍ;SÍ
+¿Cuál es el peso volumétrico de una caja de 60 x 40 x 40 cm?;19,2 kg;06_;"El peso volumétrico de una caja de 60 × 40 × 40 cm es **19,2 kg**.
+
+Cálculo: (60 × 40 × 40) ÷ 5.000 = 96.000 ÷ 5.000 = 19,2 kg [06_tarifas_transporte_2026.pdf, página 1]";SÍ;SÍ
+¿Cuánto cuesta enviar un palet a Francia?;No hay información: las tarifas solo cubren España y Portugal;;No encuentro esa información en los documentos de la empresa.;-;SÍ
+¿Hasta qué hora tengo que entregar un envío para que salga el mismo día?;Antes de las 13:00;05_|07_|01_;Un envío sale el mismo día si se entrega o se recoge **antes de las 13:00** (hora de corte) [07_plazos_de_entrega_y_zonas.pdf, página 1]. Los envíos entregados o recogidos después de esa hora salen al día siguiente laborable [05_preguntas_frecuentes_clientes.pdf, página 2].;SÍ;SÍ
+¿Cuánto tarda un envío estándar a Canarias?;De 5 a 7 días laborables;07_;"Un envío estándar a Canarias (Zona 5) tarda **5 a 7 días laborables** desde el día de salida [07_plazos_de_entrega_y_zonas.pdf, página 1].
+
+Además:
+- Puede haber retrasos adicionales por trámites de aduana, ya que en Canarias se requiere documentación aduanera [07_plazos_de_entrega_y_zonas.pdf, página 1].
+- Durante la temporada alta (del 15 de noviembre al 10 de enero), el plazo puede ampliarse en 24 horas. Esta ampliación no da derecho a compensación [07_plazos_de_entrega_y_zonas.pdf, página 1].";SÍ;SÍ
+¿Cuántos días tengo para devolver un producto?;30 días naturales desde la entrega;03_|05_;"Tienes **30 días naturales** desde la fecha de entrega que figura en el seguimiento del envío [03_politica_de_devoluciones.pdf, página 1]. Esta información también aparece en las preguntas frecuentes [05_preguntas_frecuentes_clientes.pdf, página 2].
+
+Pasado ese plazo, la devolución solo se acepta si el cliente empresa la autoriza por escrito [03_politica_de_devoluciones.pdf, página 1].";SÍ;SÍ
+¿Se pueden devolver productos refrigerados?;No, los productos refrigerados o perecederos no admiten devolución;03_;No. Los productos refrigerados o perecederos no admiten devolución [03_politica_de_devoluciones.pdf, página 1].;SÍ;SÍ
+Me ha llegado un paquete roto por dentro pero la caja estaba bien, ¿cuánto tiempo tengo para reclamar?;7 días naturales desde la entrega (daño oculto);08_|05_;"Tienes **7 días naturales desde la entrega** para reclamar. Es el plazo para el daño oculto, es decir, el que no se ve desde el exterior del paquete [08_protocolo_mercancia_danada_incidencias.pdf, página 1] [05_preguntas_frecuentes_clientes.pdf, página 2].
+
+Mientras tramitas la reclamación, conserva el embalaje y la mercancía tal como llegaron, y haz fotos del embalaje exterior, del interior y de la mercancía dañada. Después, abre la reclamación en la web o en clientes@transportesrag.example indicando el número de envío [08_protocolo_mercancia_danada_incidencias.pdf, página 1].";SÍ;SÍ
+¿Cuánto me indemnizan si pierden mi envío y no contraté seguro?;5 € por kilo de peso bruto, con un máximo de 600 € por envío;08_|14_;"Sin seguro contratado, la indemnización es de **5,00 € por kilo de peso bruto del bulto afectado**, con un **máximo de 600 € por envío** [08_protocolo_mercancia_danada_incidencias.pdf, página 1]. Esta limitación también aparece en las condiciones generales [14_condiciones_generales_contratacion.pdf, página 1].
+
+Por ejemplo, si el bulto perdido pesa 20 kg bruto: 20 kg × 5,00 €/kg = **100 €**.
+
+El tope de 600 € se alcanza con 120 kg de peso bruto (600 € ÷ 5 €/kg = 120 kg).
+
+Las condiciones generales también indican que Transportes RAG no responde de daños indirectos, como el lucro cesante o la pérdida de clientes [14_condiciones_generales_contratacion.pdf, página 1].";SÍ;SÍ
+¿A qué velocidad máxima puede ir una carretilla dentro de la nave?;6 km/h;04_;Dentro de la nave, la velocidad máxima de una carretilla es de **6 km/h** [04_procedimiento_carretillas_elevadoras.pdf, página 1].;SÍ;SÍ
+¿A qué temperatura tiene que llegar la mercancía refrigerada?;Entre 2 °C y 8 °C;02_|01_;"Según el protocolo, la mercancía refrigerada debe llegar a una temperatura **entre 2 °C y 8 °C** [02_protocolo_recepcion_mercancia.pdf, página 1].
+
+Si la temperatura es superior a 8 °C, la mercancía se rechaza [02_protocolo_recepcion_mercancia.pdf, página 2].";SÍ;SÍ
+¿Cuál es la altura máxima de un palet que se recibe en el almacén?;1,80 m incluida la base;02_;La altura máxima de un palet que se recibe en el almacén es de **1,80 m**, incluida la base [02_protocolo_recepcion_mercancia.pdf, página 1].;SÍ;SÍ
+¿Cuántos kilos puede levantar a mano un operario en el picking?;25 kg;09_;Un operario puede levantar a mano como máximo **25 kg**. Para pesos mayores se usa transpaleta o se pide ayuda a un compañero. [09_normas_picking_packing.pdf, página 1];SÍ;SÍ
+¿Aceptáis envíos de fuegos artificiales?;No, los explosivos (clase 1, incluida la pirotecnia) no se aceptan;10_;No. Según la Política de mercancías peligrosas, la clase 1 (explosivos, incluida la pirotecnia) no se acepta. [10_politica_mercancias_peligrosas.pdf, página 1];SÍ;SÍ
+¿Cuántos días de permiso tengo si hospitalizan a mi padre?;5 días laborables;12_;"Tiene derecho a **5 días laborables** de permiso retribuido por hospitalización de un familiar hasta segundo grado, como su padre [12_turnos_vacaciones_permisos.pdf, página 1].
+
+Los permisos deben justificarse con el documento correspondiente en un plazo de 7 días desde la reincorporación [12_turnos_vacaciones_permisos.pdf, página 2].";SÍ;SÍ
+¿Cuántos días de vacaciones tengo al año?;30 días naturales;12_;Tienes **30 días naturales de vacaciones al año**. Si te incorporaste durante el año, te corresponde la parte proporcional. [12_turnos_vacaciones_permisos.pdf, página 1];SÍ;SÍ
+¿Cuándo se hace el inventario general?;El último fin de semana de junio;13_;El inventario general anual se realiza **el último fin de semana de junio**, con el almacén cerrado a la actividad durante 2 días (sábado y domingo). [13_procedimiento_inventario.pdf, página 1];SÍ;SÍ
+Según la Ley de Prevención de Riesgos Laborales, ¿el empresario tiene que formar a los trabajadores?;Sí, debe garantizar una formación teórica y práctica, suficiente y adecuada, en materia preventiva, sin coste para el trabajador;ley_31;"Sí. Según la Ley de Prevención de Riesgos Laborales, el empresario debe garantizar que cada trabajador reciba una formación teórica y práctica, suficiente y adecuada, en materia preventiva. Esta formación debe darse en el momento de la contratación y cuando cambien sus funciones o se introduzcan nuevas tecnologías o equipos de trabajo [ley_31_1995_prevencion_riesgos_laborales.pdf, página 19].
+
+Además:
+- La formación debe centrarse en el puesto de trabajo o función de cada trabajador [ley_31_1995_prevencion_riesgos_laborales.pdf, página 19].
+- Debe impartirse, siempre que sea posible, dentro de la jornada laboral. Si no es posible, en otras horas, descontando ese tiempo de la jornada [ley_31_1995_prevencion_riesgos_laborales.pdf, página 19].
+- Su coste no puede recaer en ningún caso sobre los trabajadores [ley_31_1995_prevencion_riesgos_laborales.pdf, página 19].";SÍ;SÍ
+¿Quién ganó el Mundial de fútbol de 2022?;No hay información en los documentos;;No encuentro esa información en los documentos de la empresa.;-;SÍ

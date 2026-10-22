@@ -2,6 +2,7 @@
 from dotenv import load_dotenv
 from langchain_google_genai import ChatGoogleGenerativeAI, GoogleGenerativeAIEmbeddings
 from langchain_chroma import Chroma
+from langchain_anthropic import ChatAnthropic
 
 load_dotenv()
 
@@ -14,7 +15,7 @@ base = Chroma(
 )
 
 # 2. La IA que redacta la respuesta (temperature=0: respuestas precisas, sin "creatividad")
-llm = ChatGoogleGenerativeAI(model="gemini-flash-latest", temperature=0)
+llm = ChatAnthropic(model="claude-haiku-5-5")
 
 # 3. Las instrucciones que recibe la IA en cada pregunta
 INSTRUCCIONES = """Eres el asistente interno de Transportes RAG S.L., una empresa logística.
